@@ -10,10 +10,8 @@
 
 ## 使用说明
 - 所有笔记用 Markdown 编写
-- 想新增笔记：直接在 `docs` 文件夹新建 .md 文件
-- 同步到 GitHub：输 3 行命令即可
+- 想新增笔记：直接在 docs 文件夹新建 .md 文件
+- 同步到 GitHub：执行 3 行命令即可
 
 ---
- Made with ❤️ by GitHub
-
-
+Made with ❤️ by GitHub
